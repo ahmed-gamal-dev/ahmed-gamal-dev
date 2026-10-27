@@ -1,34 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">A passionate backend developer </h3>
+<h1 align="center">Hi, I'm Ahmed Gamal 👋</h1>
+<h3 align="center">Senior Laravel Developer · Full-Stack (Laravel · React · Flutter) · Remote from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-gamal-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-gamal-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-gamal-dev" alt="ahmed-gamal-dev" /></a> </p>
-
-- 🔭 I’m currently working on [HOPE](https://gethopecard.com)
-
-- 👯 I’m looking to collaborate on [Tamrina](https://tamrina.com)
-
-- 💬 Ask me about **PHP, Laravel, Flutter, Django**
-
-- 📫 How to reach me **ahmedpr86@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/wezcoder20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wezcoder20" height="30" width="40" /></a>
-<a href="https://dev.to/wezcoder20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wezcoder20" height="30" width="40" /></a>
-<a href="https://twitter.com/wezcoder20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wezcoder20" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmedgamal86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wezcoder20" height="30" width="40" /></a>
-<a href="https://medium.com/@wezcoder20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wezcoder20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wezcoder20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wezcoder20" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@wezcoder20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@wezcoder20" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wzcoder/"><img src="https://img.shields.io/badge/LinkedIn-wzcoder-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ahmedprr86@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedprr86%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://menhaj.online/"><img src="https://img.shields.io/badge/Live-menhaj.online-2E2A8C" alt="Menhaj"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+I've been building production software with **PHP & Laravel since 2018** — from client websites to multi-tenant SaaS platforms, REST APIs for mobile apps, payment flows and ERP-style back offices. I like owning a feature end to end: database design → API → dashboard → deployment.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-gamal-dev&show_icons=true&locale=en&layout=compact" alt="ahmed-gamal-dev" /></p>
+Most of my client and product work lives in **private repositories**, so the contribution graph tells the story better than the public repo list.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-gamal-dev&show_icons=true&locale=en" alt="ahmed-gamal-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-gamal-dev&" alt="ahmed-gamal-dev" /></p>
+### 🚀 What I'm building
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Menhaj (منهاج)](https://menhaj.online/)** | Multi-tenant SaaS for managing academies & training centers — students, courses, sessions, attendance, payments. Each academy on its own subdomain. | Laravel 13, Inertia.js, React, TypeScript, MySQL, GitHub Actions |
+| **Menura** | Restaurant e-menu, online ordering & management SaaS. Central DB + one database per restaurant, subdomains or custom domains. | Laravel, React, MySQL |
+| **[Hope Athletes](https://gethopecard.com/)** | Discount platform for athletes across 350+ partner stores, mini e-commerce and rehab support. Led a team of 5. | Laravel API, React dashboard, 2 Flutter apps |
+| **Recruitment, travel & ERP systems** | Recruitment platforms integrated with Saudi Musaned workflows, plus a travel system covering trips, accounting and ERP. | Laravel, React, Flutter |
+| **ASFMSEDU LMS · FinC · [Nafess](https://nafess.com/) · Tamrina** | Medical-education LMS with certificate verification, fintech app backend, and web platforms. | Laravel, Flutter |
+| **Terzoo POS** | Restaurant POS software used every day in Austria. | MySQL, TypeScript |
+
+### 🛠️ Tech stack
+
+**Backend:** PHP 8 · Laravel (Eloquent, Queues, Events, Policies, Sanctum) · Python / FastAPI  
+**Databases:** MySQL · PostgreSQL / Supabase · multi-tenant data design  
+**Frontend:** React · Inertia.js · Next.js · TypeScript · Tailwind · Arabic RTL & multilingual UIs  
+**Mobile:** Flutter  
+**DevOps:** Git · GitHub Actions CI/CD · Docker · Linux VPS · Nginx  
+**Integrations:** REST APIs · Stripe & payment gateways · webhooks · n8n automation · Gemini API
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?logo=inertia&logoColor=white" alt="Inertia">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+### 📈 Laravel journey
+
+- **2018–2020** — PHP & Laravel websites and custom back offices for agency clients
+- **2019–2021** — Laravel development, support, and teaching PHP
+- **2021–2022** — Built a full affiliate system in Laravel
+- **2022–2024** — Laravel REST APIs powering Flutter apps and React dashboards
+- **2024–now** — Multi-tenant SaaS (Laravel 13 + Inertia/React), database-per-tenant, CI/CD
+
+### 📫 Open to
+
+Remote Laravel / full-stack roles and freelance projects. Happy to start with a practical task.
