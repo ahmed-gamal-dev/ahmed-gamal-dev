@@ -13,17 +13,57 @@ Most of my client and product work lives in **private repositories**, so the con
 
 ---
 
-### 🚀 What I'm building
+### 🚀 Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Menhaj (منهاج)](https://menhaj.online/)** · [code showcase](https://github.com/ahmed-gamal-dev/menhaj-laravel-showcase) | Multi-tenant SaaS for managing academies & training centers — students, courses, sessions, attendance, payments. Database per academy. | Laravel 13, Inertia.js, React, TypeScript, MySQL, GitHub Actions |
-| **Menura** · [code showcase](https://github.com/ahmed-gamal-dev/menura-laravel-showcase) | Restaurant e-menu, online ordering & management SaaS. Central DB + one database per restaurant, subdomains or custom domains. | Laravel, React, MySQL |
-| **[Hope Athletes](https://gethopecard.com/)** · [code showcase](https://github.com/ahmed-gamal-dev/hope-laravel-showcase) | Discount platform for athletes across 350+ partner stores, mini e-commerce and rehab support. Led a team of 5. | Laravel API, React dashboard, 2 Flutter apps |
-| **Jihah Al Qudum** · [code showcase](https://github.com/ahmed-gamal-dev/jihah-alqudum-showcase) | Saudi recruitment & worker-rental platform: contract state machine, concurrency-safe worker reservations, signed payment webhooks, installments. | Laravel 12, Flutter |
-| **Travel & ERP systems** | Travel system covering trip operations, accounting and ERP workflows. | Laravel, React |
-| **ASFMSEDU LMS · FinC · [Nafess](https://nafess.com/) · Tamrina** | Medical-education LMS with certificate verification, fintech app backend, and web platforms. | Laravel, Flutter |
-| **Terzoo POS** | Restaurant POS software used every day in Austria. | MySQL, TypeScript |
+Each card links to a case study with an overview and screenshots from the live site. Source code is private.
+
+#### SaaS products I built
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/menhaj-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/menhaj-case-study/main/screenshots/desktop.png" alt="Menhaj (منهاج)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/menhaj-case-study">Menhaj (منهاج)</a></b><br><sub>Arabic-first SaaS for running academies and training centers.</sub><br><sub><a href="https://menhaj.online/">Live site</a> · Laravel 13, PHP 8.4, Inertia.js</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/menura-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/menura-case-study/main/screenshots/desktop.png" alt="Menura"></a><br><b><a href="https://github.com/ahmed-gamal-dev/menura-case-study">Menura</a></b><br><sub>Restaurant SaaS: digital menu, online ordering, POS, inventory and accounting.</sub><br><sub><a href="https://menura.virvib.com/">Live site</a> · Laravel 13, PHP 8.3, React 19</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/clinichub-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/clinichub-case-study/main/screenshots/desktop.png" alt="ClinicHub (كلينك هَب)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/clinichub-case-study">ClinicHub (كلينك هَب)</a></b><br><sub>Cloud platform for clinics and medical centers, with e-prescriptions.</sub><br><sub><a href="https://clinichub.virvib.com/">Live site</a> · Laravel, PHP, React</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/pharmaview-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/pharmaview-case-study/main/screenshots/desktop.png" alt="Pharmaview"></a><br><b><a href="https://github.com/ahmed-gamal-dev/pharmaview-case-study">Pharmaview</a></b><br><sub>Pharmacy management platform for Egypt.</sub><br><sub><a href="https://pharmacy.virvib.com/">Live site</a> · Laravel, PHP, React</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/fashiohub-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/fashiohub-case-study/main/screenshots/desktop.png" alt="FashioHub (فاشيو هَب)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/fashiohub-case-study">FashioHub (فاشيو هَب)</a></b><br><sub>Cloud platform for fashion stores and brands: storefront + POS.</sub><br><sub><a href="https://clothes.virvib.com/">Live site</a> · Laravel, PHP, React</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/lawhub-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/lawhub-case-study/main/screenshots/desktop.png" alt="LawHub (ميزان)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/lawhub-case-study">LawHub (ميزان)</a></b><br><sub>Cloud platform for law firms: cases, clients and a legal knowledge base.</sub><br><sub><a href="https://lawhub.virvib.com/">Live site</a> · Laravel, PHP, React</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/mobihub-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/mobihub-case-study/main/screenshots/desktop.png" alt="MobiHub (موبي هَب)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/mobihub-case-study">MobiHub (موبي هَب)</a></b><br><sub>Cloud platform for mobile phone shops and repair centers.</sub><br><sub><a href="https://mobihub.virvib.com/">Live site</a> · Laravel, PHP, React</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/athar-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/athar-case-study/main/screenshots/desktop.png" alt="Athar (أثر)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/athar-case-study">Athar (أثر)</a></b><br><sub>Platform for charities and charitable medical centers.</sub><br><sub><a href="https://athar.virvib.com/">Live site</a> · Laravel, PHP, React</sub></td>
+</tr>
+</table>
+
+#### Client & company platforms
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/hope-athletes-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/hope-athletes-case-study/main/screenshots/desktop.png" alt="Hope Athletes"></a><br><b><a href="https://github.com/ahmed-gamal-dev/hope-athletes-case-study">Hope Athletes</a></b><br><sub>Discounts, cashback and benefits for athletes in Egypt.</sub><br><sub><a href="https://gethopecard.com/">Live site</a> · Laravel 12, PHP 8.2, Sanctum REST API</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/jihah-alqudum-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/jihah-alqudum-case-study/main/screenshots/desktop.png" alt="Jihah Al Qudum (جهة القدوم)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/jihah-alqudum-case-study">Jihah Al Qudum (جهة القدوم)</a></b><br><sub>Saudi recruitment and domestic-worker rental platform.</sub><br><sub><a href="https://jihahalqudum-co.com/">Live site</a> · Laravel 12, PHP, Modular architecture</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/diyah-alsajjad-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/diyah-alsajjad-case-study/main/screenshots/desktop.png" alt="Diyah Al Sajjad (ضياء السجاد)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/diyah-alsajjad-case-study">Diyah Al Sajjad (ضياء السجاد)</a></b><br><sub>Travel platform and ERP for trips, hotels and flights in Saudi Arabia.</sub><br><sub><a href="https://diyahalsajjad-sa.com/">Live site</a> · Laravel, PHP, MySQL</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/hawyat-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/hawyat-case-study/main/screenshots/desktop.png" alt="Hawyat — Kom Containers"></a><br><b><a href="https://github.com/ahmed-gamal-dev/hawyat-case-study">Hawyat — Kom Containers</a></b><br><sub>Booking and operations platform for container services in Saudi Arabia.</sub><br><sub><a href="https://hawyat.com/">Live site</a> · Laravel, PHP, MySQL</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/finc-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/finc-case-study/main/screenshots/desktop.png" alt="FinC"></a><br><b><a href="https://github.com/ahmed-gamal-dev/finc-case-study">FinC</a></b><br><sub>Investment intelligence workspace for MENA portfolio managers.</sub><br><sub><a href="https://finc.me/">Live site</a> · Flutter, Bloc, go_router</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/asfmsedu-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/asfmsedu-case-study/main/screenshots/desktop.png" alt="ASFMSEDU"></a><br><b><a href="https://github.com/ahmed-gamal-dev/asfmsedu-case-study">ASFMSEDU</a></b><br><sub>Learning management system for medical education.</sub><br><sub><a href="https://asfmsedu.com/">Live site</a> · Laravel, PHP, MySQL</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/nafess-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/nafess-case-study/main/screenshots/desktop.png" alt="Nafess"></a><br><b><a href="https://github.com/ahmed-gamal-dev/nafess-case-study">Nafess</a></b><br><sub>Web platform built on Laravel.</sub><br><sub><a href="https://nafess.com/">Live site</a> · Laravel, PHP, Vue</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/labor-office-assistant-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/labor-office-assistant-case-study/main/screenshots/desktop.png" alt="Egyptian Labor Office Assistant"></a><br><b><a href="https://github.com/ahmed-gamal-dev/labor-office-assistant-case-study">Egyptian Labor Office Assistant</a></b><br><sub>Arabic assistant and request portal for Egyptian workers in Saudi Arabia.</sub><br><sub><a href="https://eg.virvib.com/">Live site</a> · Python, FastAPI, PostgreSQL</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/fieldops-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/fieldops-case-study/main/screenshots/desktop.png" alt="FieldOps HQ (Hasad)"></a><br><b><a href="https://github.com/ahmed-gamal-dev/fieldops-case-study">FieldOps HQ (Hasad)</a></b><br><sub>Field-service operations: contracts, technician visits and fleet tracking.</sub><br><sub><a href="https://hasad.virvib.com/">Live site</a> · Laravel, PHP, React</sub></td>
+</tr>
+</table>
+
+#### Austria
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/casa-napoli-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/casa-napoli-case-study/main/screenshots/desktop.png" alt="Casa Napoli — Salzburg"></a><br><b><a href="https://github.com/ahmed-gamal-dev/casa-napoli-case-study">Casa Napoli — Salzburg</a></b><br><sub>Online table reservations for a pizzeria & trattoria in Salzburg.</sub><br><sub><a href="https://casa-napoli.at/">Live site</a> · React, TypeScript, Supabase</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/ahmed-gamal-dev/mille-salzburg-case-study"><img src="https://raw.githubusercontent.com/ahmed-gamal-dev/mille-salzburg-case-study/main/screenshots/desktop.png" alt="MILLE — Salzburg"></a><br><b><a href="https://github.com/ahmed-gamal-dev/mille-salzburg-case-study">MILLE — Salzburg</a></b><br><sub>Website and content dashboard for a Mediterranean restaurant in Salzburg's old town.</sub><br><sub><a href="https://milles.at/">Live site</a> · Laravel, PHP, React</sub></td>
+</tr>
+</table>
 
 ### 🛠️ Tech stack
 
