@@ -17,10 +17,11 @@ Most of my client and product work lives in **private repositories**, so the con
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Menhaj (منهاج)](https://menhaj.online/)** | Multi-tenant SaaS for managing academies & training centers — students, courses, sessions, attendance, payments. Each academy on its own subdomain. | Laravel 13, Inertia.js, React, TypeScript, MySQL, GitHub Actions |
-| **Menura** | Restaurant e-menu, online ordering & management SaaS. Central DB + one database per restaurant, subdomains or custom domains. | Laravel, React, MySQL |
-| **[Hope Athletes](https://gethopecard.com/)** | Discount platform for athletes across 350+ partner stores, mini e-commerce and rehab support. Led a team of 5. | Laravel API, React dashboard, 2 Flutter apps |
-| **Recruitment, travel & ERP systems** | Recruitment platforms integrated with Saudi Musaned workflows, plus a travel system covering trips, accounting and ERP. | Laravel, React, Flutter |
+| **[Menhaj (منهاج)](https://menhaj.online/)** · [code showcase](https://github.com/ahmed-gamal-dev/menhaj-laravel-showcase) | Multi-tenant SaaS for managing academies & training centers — students, courses, sessions, attendance, payments. Database per academy. | Laravel 13, Inertia.js, React, TypeScript, MySQL, GitHub Actions |
+| **Menura** · [code showcase](https://github.com/ahmed-gamal-dev/menura-laravel-showcase) | Restaurant e-menu, online ordering & management SaaS. Central DB + one database per restaurant, subdomains or custom domains. | Laravel, React, MySQL |
+| **[Hope Athletes](https://gethopecard.com/)** · [code showcase](https://github.com/ahmed-gamal-dev/hope-laravel-showcase) | Discount platform for athletes across 350+ partner stores, mini e-commerce and rehab support. Led a team of 5. | Laravel API, React dashboard, 2 Flutter apps |
+| **Jihah Al Qudum** · [code showcase](https://github.com/ahmed-gamal-dev/jihah-alqudum-showcase) | Saudi recruitment & worker-rental platform: contract state machine, concurrency-safe worker reservations, signed payment webhooks, installments. | Laravel 12, Flutter |
+| **Travel & ERP systems** | Travel system covering trip operations, accounting and ERP workflows. | Laravel, React |
 | **ASFMSEDU LMS · FinC · [Nafess](https://nafess.com/) · Tamrina** | Medical-education LMS with certificate verification, fintech app backend, and web platforms. | Laravel, Flutter |
 | **Terzoo POS** | Restaurant POS software used every day in Austria. | MySQL, TypeScript |
 
